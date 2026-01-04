@@ -1,6 +1,6 @@
-using FluentValidation.Extensions.Brazil.Common;
+using FluentExtensions.Documents.Brazil.Common;
 
-namespace FluentValidation.Extensions.Brazil.Validators;
+namespace FluentExtensions.Documents.Brazil.Validators;
 
 /// <summary>
 /// Provides validation logic for Brazilian CPF (Cadastro de Pessoas Físicas).

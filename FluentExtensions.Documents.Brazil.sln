@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentExtensions.Documents.Brazil", "FluentExtensions.Documents.Brazil\FluentExtensions.Documents.Brazil.csproj", "{B1BF0CBC-EAAE-4A0C-9D55-7C4A8EE2F9EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentExtensions.Documents.Brazil.Tests", "FluentExtensions.Documents.Brazil.Tests\FluentExtensions.Documents.Brazil.Tests.csproj", "{B9548E77-ADED-425B-AEB7-0634E2F145F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BF0CBC-EAAE-4A0C-9D55-7C4A8EE2F9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BF0CBC-EAAE-4A0C-9D55-7C4A8EE2F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BF0CBC-EAAE-4A0C-9D55-7C4A8EE2F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BF0CBC-EAAE-4A0C-9D55-7C4A8EE2F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9548E77-ADED-425B-AEB7-0634E2F145F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9548E77-ADED-425B-AEB7-0634E2F145F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9548E77-ADED-425B-AEB7-0634E2F145F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9548E77-ADED-425B-AEB7-0634E2F145F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

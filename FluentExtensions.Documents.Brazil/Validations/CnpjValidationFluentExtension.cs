@@ -1,6 +1,7 @@
-using FluentValidation.Extensions.Brazil.Validators;
+using FluentExtensions.Documents.Brazil.Validators;
+using FluentValidation;
 
-namespace FluentValidation.Extensions.Brazil.Validations;
+namespace FluentExtensions.Documents.Brazil.Validations;
 
 /// <summary>
 /// FluentValidation extension methods for validating Brazilian CNPJ.

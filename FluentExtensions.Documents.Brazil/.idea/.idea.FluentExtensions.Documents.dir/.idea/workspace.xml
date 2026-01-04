@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="162d9096-1a6e-4ced-91e6-7721708a43d8" name="Changes" comment="">
+    <list default="true" id="6dc7feff-871b-4dc5-bb05-0fb72c049e0e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../csharp/GraphQLApi/GraphQLApi/Interfaces/IGetUserByIdUseCase.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../csharp/GraphQLApi/GraphQLApi/Interfaces/IGetUsersUseCas1e.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../csharp/GraphQLApi/GraphQLApi/Interfaces/IUserService.cs" afterDir="false" />
@@ -13,62 +10,53 @@
       <change afterPath="$PROJECT_DIR$/../../csharp/GraphQLApi/GraphQLApi/Services/UserService.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../csharp/GraphQLApi/GraphQLApi/UseCases/User/GetUsersUseCase.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../csharp/GraphQLApi/GraphQLApi/UseCases/User/GetuserByIdUseCase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extenios.Brazil.Tests/FluentValidation.Extenios.Brazil.Tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extenios.Brazil.Tests/Validators/CnpjValidatorTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extenios.Brazil.Tests/Validators/CpfValidatorTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../FluentExtensions.Documents.Brazil.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil.sln.DotSettings.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil/.idea/.idea.FluentValidation.Extensions.Brazil/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil/Common/Constants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil/FluentValidation.Extensions.Brazil.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil/Validations/CnpjValidationFluentExtension.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil/Validations/CpfValidationFluentExtension.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil/Validators/CnpjValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FluentValidation.Extensions.Brazil/Validators/CpfValidator.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DpaMonitoringSettings">
-    <option name="firstShow" value="false" />
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b22afa9d5c87463db5ecd7ada43b5da0c2710/f3/53252d34/Enumerable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68bce74191bd97a07e78dc18bca71b46f8fda422636e24d88f58ded418246a6a/Select.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/bfff78ecaa39c818519fc918bb2d4bbdca6ad93d7170f5cf325f67ccd0b97d43/BooleanAsserts.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FluentValidation.Extensions.Brazil/Common/Constants.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FluentValidation.Extensions.Brazil/Validations/CnpjValidationFluentExtension.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FluentValidation.Extensions.Brazil/Validators/CnpjValidator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FluentValidation.Extensions.Brazil/Validators/CpfValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="37nSWWFKBG5k37ZmKVLfAjPc3Xh" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="37np93KMrRo1KTVMrQrDpLZVXDk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "81cb526b-885e-4b10-bced-ad3dc7ae9434.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="162d9096-1a6e-4ced-91e6-7721708a43d8" name="Changes" comment="" />
-      <created>1767537374056</created>
+      <changelist id="6dc7feff-871b-4dc5-bb05-0fb72c049e0e" name="Changes" comment="" />
+      <created>1767548534962</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1767537374056</updated>
-      <workItem from="1767537375264" duration="7105000" />
+      <updated>1767548534962</updated>
+      <workItem from="1767548537126" duration="3000" />
     </task>
     <servers />
   </component>

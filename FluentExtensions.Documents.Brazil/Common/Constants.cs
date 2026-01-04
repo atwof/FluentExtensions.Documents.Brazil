@@ -1,4 +1,4 @@
-namespace FluentValidation.Extensions.Brazil.Common;
+namespace FluentExtensions.Documents.Brazil.Common;
 
 public class Constants
 {

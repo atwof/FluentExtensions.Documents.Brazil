@@ -1,10 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <IsPackable>false</IsPackable>
+        <TargetFramework>net10.0</TargetFramework>
+        <AssemblyName>FluentExtensions.Documents.Brazil.Tests</AssemblyName>
+        <RootNamespace>FluentExtensions.Documents.Brazil.Tests</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -19,7 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\FluentValidation.Extensions.Brazil\FluentValidation.Extensions.Brazil.csproj" />
+      <ProjectReference Include="..\FluentExtensions.Documents.Brazil\FluentExtensions.Documents.Brazil.csproj" />
     </ItemGroup>
 
 </Project>

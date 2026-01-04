@@ -1,6 +1,6 @@
-using FluentValidation.Extensions.Brazil.Validators;
+using FluentExtensions.Documents.Brazil.Validators;
 
-namespace FluentValidation.Extensions.Brazil.Tests.Validators;
+namespace FluentExtensions.Documents.Brazil.Tests.Validators;
 
 public class CpfValidatorTests
 {
